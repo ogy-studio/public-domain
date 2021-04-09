@@ -1,6 +1,8 @@
 .file {
-    display: block;
+    display: inline-block;
     margin-bottom: 4px;
+    float: left;
+    clear: left;
 }
 
 .files-container {
